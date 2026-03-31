@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Updated dependencies to latest stable versions
 - Ran linter, applied auto-fixes
+
+## 2026-03-31
+- Added .editorconfig for consistent formatting
+- Updated .gitignore to exclude build artifacts
